@@ -14,7 +14,7 @@ description: "文字洗衣袋"
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: 
+favicon:
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -62,6 +62,7 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
+  enabled: true
   clientID: Ov23liumcBAefy3nLos0
   clientSecret: f5d38c51f2f13b6950877e317b458f3da83982a6
   repo: geziblog.github.io
